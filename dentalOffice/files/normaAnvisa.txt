@@ -1,0 +1,12 @@
+1. Instalações elétricas e eletrônicas
+No que se refere às instalações elétricas e eletrônicas, as normas da Anvisa para consultório odontológico exigem que o projeto contenha as seguintes descrições detalhadas:
+
+Localização e características da rede pública de fornecimento de energia elétrica;
+Sistema de energia: entrada, transformação, medição e distribuição;
+Sistema de proteção contra raios;
+Localização e características da rede pública de telefonia;
+Sistema telefônico;
+Sistema de computadores;
+Sistema de radiologia;
+Sistema de geração de energia de emergência (geradores); e
+Sistema de alarme contra incêndios.
