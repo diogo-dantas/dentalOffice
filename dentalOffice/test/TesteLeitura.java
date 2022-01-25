@@ -21,7 +21,7 @@ public class TesteLeitura {
 			linha = br.readLine();
 		}
 		
-
+		br.close();
 	}
 
 }
