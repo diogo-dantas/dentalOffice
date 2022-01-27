@@ -10,7 +10,7 @@ public class TesteLeitura {
 	public static void main(String[] args) throws IOException {
 
 		FileInputStream fis = new FileInputStream("src/br/com/dentalOffice/files/normaAnvisa.txt");
-		InputStreamReader ist = new InputStreamReader(fis);
+		InputStreamReader ist = new InputStreamReader(fis,"UTF-8");
 		BufferedReader br = new BufferedReader(ist);
 
 		String linha = br.readLine();
